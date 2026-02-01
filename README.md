@@ -1,4 +1,6 @@
 # Simulation-and-Analysis-of-Piezoelectric-Footstep-Power-Generation-System
 This project focuses on the analysis of a piezoelectric footstep power generation system based on its operating principle and electrical behaviour. The system converts mechanical energy generated from human footsteps into electrical energy using piezoelectric elements. When pressure is applied, the piezoelectric material produces an alternating voltage proportional to the applied force. This voltage is processed through a bridge rectifier to obtain a direct current output, which is then filtered and stored using energy storage components. The analysis emphasizes the relationship between footstep-induced vibration amplitude and frequency and the resulting generated voltage and power output, along with the influence of the sensor’s inherent capacitance and resistance on its electrical behaviour and overall performance. The results highlight the suitability of piezoelectric systems for low-power applications and serve as a foundational study for understanding footstep-based energy generation systems.
 
-LINK TO THE GOOGLE DOCS: https://docs.google.com/document/d/1IV-jzGV9W4NB8_n9WiDTFk_hieYWm9SZ/edit?usp=sharing&ouid=107512969697412257381&rtpof=true&sd=true
+You can refer to the project report by clicking on view raw after selecting the document in the repositary or visit the google docs link given below
+
+LINK TO THE  PROJECT REPORT: https://docs.google.com/document/d/1IV-jzGV9W4NB8_n9WiDTFk_hieYWm9SZ/edit?usp=sharing&ouid=107512969697412257381&rtpof=true&sd=true

@@ -1,0 +1,1 @@
+# Simulation-and-Analysis-of-Piezoelectric-Footstep-Power-Generation-System
